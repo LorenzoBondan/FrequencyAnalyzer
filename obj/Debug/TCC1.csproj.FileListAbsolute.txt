@@ -1,0 +1,149 @@
+C:\Users\lorenzobondan\Documents\TCC I\TCC1\bin\Debug\TCC1.exe.config
+C:\Users\lorenzobondan\Documents\TCC I\TCC1\bin\Debug\TCC1.exe
+C:\Users\lorenzobondan\Documents\TCC I\TCC1\bin\Debug\TCC1.pdb
+C:\Users\lorenzobondan\Documents\TCC I\TCC1\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\lorenzobondan\Documents\TCC I\TCC1\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\lorenzobondan\Documents\TCC I\TCC1\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\lorenzobondan\Documents\TCC I\TCC1\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\lorenzobondan\Documents\TCC I\TCC1\obj\Debug\TCC1.csproj.AssemblyReference.cache
+C:\Users\lorenzobondan\Documents\TCC I\TCC1\obj\Debug\TCC1.csproj.SuggestedBindingRedirects.cache
+C:\Users\lorenzobondan\Documents\TCC I\TCC1\obj\Debug\TCC1.frmPrincipal.resources
+C:\Users\lorenzobondan\Documents\TCC I\TCC1\obj\Debug\TCC1.Properties.Resources.resources
+C:\Users\lorenzobondan\Documents\TCC I\TCC1\obj\Debug\TCC1.csproj.GenerateResource.cache
+C:\Users\lorenzobondan\Documents\TCC I\TCC1\obj\Debug\TCC1.csproj.CoreCompileInputs.cache
+C:\Users\lorenzobondan\Documents\TCC I\TCC1\obj\Debug\TCC1.csproj.CopyComplete
+C:\Users\lorenzobondan\Documents\TCC I\TCC1\obj\Debug\TCC1.exe
+C:\Users\lorenzobondan\Documents\TCC I\TCC1\obj\Debug\TCC1.pdb
+C:\Users\lorenzobondan\Documents\TCC I\TCC1\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\lorenzobondan\Documents\TCC I\TCC1\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\lorenzobondan\Documents\TCC I\TCC1\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\lorenzobondan\Documents\TCC I\TCC1\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\lorenzobondan\Documents\TCC I\TCC1\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\lorenzobondan\Documents\TCC I\TCC1\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\lorenzobondan\Documents\TCC I\TCC1\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\lorenzobondan\Documents\TCC I\TCC1\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\lorenzobondan\Documents\TCC I\TCC1\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\lorenzobondan\Documents\TCC I\TCC1\bin\Debug\NAudio.Asio.dll
+C:\Users\lorenzobondan\Documents\TCC I\TCC1\bin\Debug\NAudio.Core.dll
+C:\Users\lorenzobondan\Documents\TCC I\TCC1\bin\Debug\NAudio.dll
+C:\Users\lorenzobondan\Documents\TCC I\TCC1\bin\Debug\NAudio.Midi.dll
+C:\Users\lorenzobondan\Documents\TCC I\TCC1\bin\Debug\NAudio.Wasapi.dll
+C:\Users\lorenzobondan\Documents\TCC I\TCC1\bin\Debug\NAudio.WinForms.dll
+C:\Users\lorenzobondan\Documents\TCC I\TCC1\bin\Debug\NAudio.WinMM.dll
+C:\Users\lorenzobondan\Documents\TCC I\TCC1\bin\Debug\ScottPlot.dll
+C:\Users\lorenzobondan\Documents\TCC I\TCC1\bin\Debug\System.Drawing.Common.dll
+C:\Users\lorenzobondan\Documents\TCC I\TCC1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\lorenzobondan\Documents\TCC I\TCC1\bin\Debug\System.Security.AccessControl.dll
+C:\Users\lorenzobondan\Documents\TCC I\TCC1\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\lorenzobondan\Documents\TCC I\TCC1\bin\Debug\System.ValueTuple.dll
+C:\Users\lorenzobondan\Documents\TCC I\TCC1\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\lorenzobondan\Documents\TCC I\TCC1\bin\Debug\NAudio.xml
+C:\Users\lorenzobondan\Documents\TCC I\TCC1\bin\Debug\ScottPlot.xml
+C:\Users\lorenzobondan\Documents\TCC I\TCC1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\lorenzobondan\Documents\TCC I\TCC1\bin\Debug\System.Security.AccessControl.xml
+C:\Users\lorenzobondan\Documents\TCC I\TCC1\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\lorenzobondan\Documents\TCC I\TCC1\bin\Debug\System.ValueTuple.xml
+C:\Users\lorenzobondan\Documents\TCC I\TCC1\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\lorenzobondan\Documents\TCC I\TCC1\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\lorenzobondan\Documents\TCC I\TCC1\obj\Debug\TCC1.ScottPlotUC.resources
+C:\Users\lorenzobondan\Documents\TCC I\TCC1\bin\Debug\ScottPlot.WinForms.dll
+C:\Users\lorenzobondan\Documents\TCC I\TCC1\bin\Debug\FftSharp.dll
+C:\Users\lorenzobondan\Documents\TCC I\TCC1\bin\Debug\System.Buffers.dll
+C:\Users\lorenzobondan\Documents\TCC I\TCC1\bin\Debug\System.Memory.dll
+C:\Users\lorenzobondan\Documents\TCC I\TCC1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\lorenzobondan\Documents\TCC I\TCC1\bin\Debug\FftSharp.xml
+C:\Users\lorenzobondan\Documents\TCC I\TCC1\bin\Debug\System.Buffers.xml
+C:\Users\lorenzobondan\Documents\TCC I\TCC1\bin\Debug\System.Memory.xml
+C:\Users\lorenzobondan\Documents\TCC I\TCC1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\lorenzobondan\Documents\TCC I\TCC1\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\lorenzobondan\Documents\TCC I\TCC1\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\lorenzobondan\Documents\TCC I\TCC1\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\lorenzobondan\Documents\TCC I\TCC1\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\lorenzobondan\Documents\TCC I\TCC1\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\lorenzobondan\Documents\TCC I\TCC1\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\lorenzobondan\Documents\TCC I\TCC1\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\lorenzobondan\Documents\TCC I\TCC1\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\lorenzobondan\Documents\TCC I\TCC1\obj\Debug\TCC1.frmSimulador.resources
+C:\Users\lorenzobondan\Documents\TCC I\TCC1\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\lorenzobondan\Documents\TCC I\TCC1\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\lorenzobondan\Documents\TCC I\TCC1\obj\Debug\TCC1.frmCarregarAudio.resources
+C:\Users\lorenzobondan\Documents\TCC I\TCC1\bin\Debug\Bunifu.UI.WinForms.ToggleSwitch.dll
+C:\Users\lorenzobondan\Documents\TCC I\TCC1\bin\Debug\Bunifu.UI.WinForms.ToggleSwitch.xml
+C:\Users\lorenzobondan\Documents\TCC I\TCC1\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\lorenzobondan\Documents\TCC I\TCC1\bin\Debug\PT\System.Data.SqlServerCe.resources.dll
+C:\Users\lorenzobondan\Documents\TCC I\TCC1\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\lorenzobondan\Documents\TCC I\TCC1\bin\Debug\iTextSharp.LGPLv2.Core.dll
+C:\Users\lorenzobondan\Documents\TCC I\TCC1\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\lorenzobondan\Documents\TCC I\TCC1\bin\Debug\iTextSharp.LGPLv2.Core.xml
+C:\Users\lorenzobondan\Documents\TCC I\TCC1\obj\Debug\TCC1.frmCarregar.resources
+C:\Users\lorenzobondan\Documents\TCC I\TCC1\obj\Debug\TCC1.frmLogin.resources
+C:\Users\lorenzobondan\Documents\TCC I\TCC1\obj\Debug\TCC1.frmMenu.resources
+C:\Users\lorenzobondan\Documents\TCC I\TCC1\obj\Debug\TCC1.frmAdministradores.resources
+C:\TCC1\obj\Debug\TCC1.csproj.AssemblyReference.cache
+C:\TCC1\obj\Debug\TCC1.csproj.SuggestedBindingRedirects.cache
+C:\TCC1\obj\Debug\TCC1.frmAdministradores.resources
+C:\TCC1\obj\Debug\TCC1.frmCarregar.resources
+C:\TCC1\obj\Debug\TCC1.frmCarregarAudio.resources
+C:\TCC1\obj\Debug\TCC1.frmLogin.resources
+C:\TCC1\obj\Debug\TCC1.frmMenu.resources
+C:\TCC1\obj\Debug\TCC1.frmPrincipal.resources
+C:\TCC1\obj\Debug\TCC1.frmSimulador.resources
+C:\TCC1\obj\Debug\TCC1.Properties.Resources.resources
+C:\TCC1\obj\Debug\TCC1.ScottPlotUC.resources
+C:\TCC1\obj\Debug\TCC1.csproj.GenerateResource.cache
+C:\TCC1\obj\Debug\TCC1.csproj.CoreCompileInputs.cache
+C:\TCC1\obj\Debug\TCC1.exe
+C:\TCC1\obj\Debug\TCC1.pdb
+C:\TCC1\bin\Debug\TCC1.exe.config
+C:\TCC1\bin\Debug\TCC1.exe
+C:\TCC1\bin\Debug\TCC1.pdb
+C:\TCC1\bin\Debug\BouncyCastle.Crypto.dll
+C:\TCC1\bin\Debug\FftSharp.dll
+C:\TCC1\bin\Debug\iTextSharp.LGPLv2.Core.dll
+C:\TCC1\bin\Debug\Microsoft.Win32.Registry.dll
+C:\TCC1\bin\Debug\NAudio.Asio.dll
+C:\TCC1\bin\Debug\NAudio.Core.dll
+C:\TCC1\bin\Debug\NAudio.dll
+C:\TCC1\bin\Debug\NAudio.Midi.dll
+C:\TCC1\bin\Debug\NAudio.Wasapi.dll
+C:\TCC1\bin\Debug\NAudio.WinForms.dll
+C:\TCC1\bin\Debug\NAudio.WinMM.dll
+C:\TCC1\bin\Debug\ScottPlot.dll
+C:\TCC1\bin\Debug\ScottPlot.WinForms.dll
+C:\TCC1\bin\Debug\System.Buffers.dll
+C:\TCC1\bin\Debug\System.Data.SqlServerCe.dll
+C:\TCC1\bin\Debug\System.Drawing.Common.dll
+C:\TCC1\bin\Debug\System.Memory.dll
+C:\TCC1\bin\Debug\System.Numerics.Vectors.dll
+C:\TCC1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\TCC1\bin\Debug\System.Security.AccessControl.dll
+C:\TCC1\bin\Debug\System.Security.Principal.Windows.dll
+C:\TCC1\bin\Debug\System.ValueTuple.dll
+C:\TCC1\bin\Debug\BouncyCastle.Crypto.xml
+C:\TCC1\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\TCC1\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\TCC1\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\TCC1\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\TCC1\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\TCC1\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\TCC1\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\TCC1\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\TCC1\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\TCC1\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\TCC1\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\TCC1\bin\Debug\Bunifu.UI.WinForms.ToggleSwitch.xml
+C:\TCC1\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\TCC1\bin\Debug\FftSharp.xml
+C:\TCC1\bin\Debug\iTextSharp.LGPLv2.Core.xml
+C:\TCC1\bin\Debug\Microsoft.Win32.Registry.xml
+C:\TCC1\bin\Debug\NAudio.xml
+C:\TCC1\bin\Debug\ScottPlot.xml
+C:\TCC1\bin\Debug\System.Buffers.xml
+C:\TCC1\bin\Debug\System.Memory.xml
+C:\TCC1\bin\Debug\System.Numerics.Vectors.xml
+C:\TCC1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\TCC1\bin\Debug\System.Security.AccessControl.xml
+C:\TCC1\bin\Debug\System.Security.Principal.Windows.xml
+C:\TCC1\bin\Debug\System.ValueTuple.xml
+C:\TCC1\bin\Debug\PT\System.Data.SqlServerCe.resources.dll
+C:\TCC1\obj\Debug\TCC1.csproj.CopyComplete
