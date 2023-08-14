@@ -33,6 +33,9 @@ The noise monitoring system captures ambient sound pressure levels and frequency
 ### Loading Form
 ![loading](https://github.com/LorenzoBondan/FrequencyAnalyzer/assets/105743965/554f39bd-40e9-427a-aa9d-51fdcc08ed99)
 
+### Generated Report
+![relatorio](https://github.com/LorenzoBondan/FrequencyAnalyzer/assets/105743965/35136293-446c-491f-bd1c-a0d1c703f1e4)
+
 ### Frequency Simulator
 ![simulator](https://github.com/LorenzoBondan/FrequencyAnalyzer/assets/105743965/9ed69c97-3d22-4c7d-9ebd-fe86611b094a)
 
